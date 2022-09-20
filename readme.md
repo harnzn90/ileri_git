@@ -1,5 +1,7 @@
 # Versiyon Kontrol Sistemi (Git) İleri Seviye
 
+
+
 **ANAHTAR NOTLAR :**
 Bu eğitim içeriğinde git (versiyon kontol sisteminin)'in biraz daha derinlerine inerek biraz daha detaylandıracağız. Diyelim ki bir takım halinde çalışıyoruz. Elimizdeki projenin bir kısmını biz bir kısmını ise farklı takım arkadaşlarımız geliştiriyor olsun. İşte bu gibi durumlar için neler yaparız, haydi birlikte bakalım.  
 İlk olarak _readme.md_ dosyamızdaki değişiklikleri versiyon kontrol sistemine ekleyelim.
